@@ -1,0 +1,10 @@
+﻿name: llm-debate
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - openai
+  - pandas
+  - matplotlib
+  - python-dotenv
+  - texlive-core
