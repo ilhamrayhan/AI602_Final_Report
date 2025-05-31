@@ -1,6 +1,6 @@
 # LLM Debate Project
 
-This project reproduces and extends the debate-based truthfulness evaluation of Binz et al. (2024). It implements a structured debate pipeline using large language models (LLMs) to assess truthfulness through adversarial argumentation and judging. Due to financial constraints and the lack of free trial credits, this project uses mocked outputs to simulate LLM responses and judge decisions. Nonetheless, the pipeline is fully implemented and ready to be executed with real API calls when an appropriate API budget is available.
+This project reproduces and extends the debate-based truthfulness evaluation of Khan et al. (2024). It implements a structured debate pipeline using large language models (LLMs) to assess truthfulness through adversarial argumentation and judging. Due to financial constraints and the lack of free trial credits, this project uses mocked outputs to simulate LLM responses and judge decisions. Nonetheless, the pipeline is fully implemented and ready to be executed with real API calls when an appropriate API budget is available.
 
 ## Project Structure
 
@@ -49,6 +49,6 @@ python experiments/debate_experiment.py
 
 ## Acknowledgments
 
-This project was developed as part of a course assignment AI602 Advanced Deep Learning at KAIST. Special thanks to Binz et al. (2024) for their foundational work on debate protocols in LLMs.
+This project was developed as part of a course assignment AI602 Advanced Deep Learning at KAIST. Special thanks to Khan et al. (2024) for their foundational work on debate protocols in LLMs.
 
 
